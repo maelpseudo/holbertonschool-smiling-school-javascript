@@ -1,1 +1,1 @@
-# holbertonschool-smiling-school-javascript
+README.md
